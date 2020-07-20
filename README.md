@@ -1,6 +1,9 @@
 # SaintSender
 3rd TW week project in .NET basics module
 
+# Qucik Look
+![alt text](SaintSenderScreenshot.jpg?raw=true)
+
 ## Description
 As a customer I would like to check my mails in a mail client you deliver me.
 ### What I need:
