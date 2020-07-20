@@ -1,7 +1,7 @@
 # SaintSender
 3rd TW week project in .NET basics module
 
-# Qucik Look
+# Quick Look
 ![alt text](SaintSenderScreenshot.jpg?raw=true)
 
 ## Description
